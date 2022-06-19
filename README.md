@@ -13,7 +13,7 @@ all credits to Manjaro team and Vitor Lopes aka codesardine who created jade de(
 
 
 ```bash
-1.download the iso from relases
+1.download the z01 and the zip and make sure they are in same directory , then extract the zip file and you will have the full iso
 
 flashing the iso
 Windows=use Rufus,Ventoy or BalenaEtcher to flash the iso
